@@ -4,11 +4,7 @@ Kalkulator berbasis HTML, CSS, dan JavaScript dengan tampilan modern, responsif,
 
 ## Demo
 
-**[Lihat Demo Langsung](#)** *(ganti dengan link GitHub Pages atau live preview)*
-
-![Preview Kalkulator](preview.png) <!-- Tambahkan gambar screenshot jika ada -->
-
----
+**[Lihat Demo Langsung Preview Kalkulator](#)** *(https://youtube.com/shorts/rkpFO8G2Nqc?si=WMU26lo1k6C7gkqZ)*
 
 ## Fitur
 
