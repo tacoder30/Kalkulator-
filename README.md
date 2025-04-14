@@ -6,6 +6,9 @@ A calculator based on HTML, CSS, and JavaScript with a modern, responsive, and i
 
 **[See Live Demo of the Calculator Preview](#)** *(https://youtube.com/shorts/rkpFO8G2Nqc?si=WMU26lo1k6C7gkqZ)*
 
+# buat beli coffe
+https://saweria.co/tacoder
+
 ## Features
 
 - **Modern and eye-friendly dark theme**
