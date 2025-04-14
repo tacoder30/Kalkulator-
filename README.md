@@ -1,28 +1,28 @@
-# Kalkulator Modern – Web App
+# Modern Calculator – Web App
 
-Kalkulator berbasis HTML, CSS, dan JavaScript dengan tampilan modern, responsif, dan interaktif. Proyek ini didesain untuk memberikan pengalaman menghitung yang nyaman, dengan fitur seperti dark mode look, tombol interaktif, backspace, tanda kurung, toggle negatif, dan **format angka otomatis** seperti `1.000.000`.
+A calculator based on HTML, CSS, and JavaScript with a modern, responsive, and interactive design. This project is created to offer a comfortable calculation experience, with features such as dark mode, interactive buttons, backspace, parentheses, toggle negative, and **automatic number formatting** like `1,000,000`.
 
 ## Demo
 
-**[Lihat Demo Langsung Preview Kalkulator](#)** *(https://youtube.com/shorts/rkpFO8G2Nqc?si=WMU26lo1k6C7gkqZ)*
+**[See Live Demo of the Calculator Preview](#)** *(https://youtube.com/shorts/rkpFO8G2Nqc?si=WMU26lo1k6C7gkqZ)*
 
-## Fitur
+## Features
 
-- **Tampilan modern** dan gelap memanjakan mata
-- **Responsive Design** – Cocok di desktop & mobile
-- **Animasi hover** dan tombol interaktif
-- **Scroll reveal** untuk efek saat muncul
-- **Dark style elegan**
-- **Tombol lengkap**: `+`, `-`, `×`, `÷`, `C`, `⌫`, `(`, `)`, `±`, `.` dan `=`
-- **Format angka otomatis**:  
-  Input `1000000` → tampil `1.000.000`
-- **Evaluasi ekspresi kompleks**: `(2+3)*10 - 100`
+- **Modern and eye-friendly dark theme**
+- **Responsive Design** – Works well on both desktop & mobile
+- **Hover animations** and interactive buttons
+- **Scroll reveal** effects when elements appear
+- **Elegant dark style**
+- **Complete button set**: `+`, `-`, `×`, `÷`, `C`, `⌫`, `(`, `)`, `±`, `.`, and `=`
+- **Automatic number formatting**:  
+  Input `1000000` → displays as `1,000,000`
+- **Evaluate complex expressions**: `(2+3)*10 - 100`
 
 ---
 
-## Struktur File
+## File Structure
 
-Semua ditulis dalam **satu file HTML** (standalone):
+Everything is written in **one HTML file** (standalone):
 
 - HTML
 - Internal CSS
@@ -30,41 +30,41 @@ Semua ditulis dalam **satu file HTML** (standalone):
 
 ---
 
-## Cara Menjalankan
+## How to Run
 
-1. Clone repositori:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/username/kalkulator-modern.git
-   cd kalkulator-modern
+   git clone https://github.com/username/modern-calculator.git
+   cd modern-calculator
    ```
 
-2. Buka `index.html` di browser favoritmu.
+2. Open `index.html` in your favorite browser.
 
 ---
 
-## Teknologi yang Digunakan
+## Technologies Used
 
 - HTML5
 - CSS3 (Flexbox + Grid)
-- Vanilla JavaScript (tanpa framework)
-- Intl.NumberFormat (format angka lokal)
+- Vanilla JavaScript (without frameworks)
+- Intl.NumberFormat (local number formatting)
 
 ---
 
 ## Screenshot
 
-Tambahkan screenshot tampilan kalkulator di berbagai ukuran.
+Add screenshots of the calculator in various sizes.
 
 ---
 
 ## Credits
 
-Desain dan kode oleh [https://github.com/tacoder30].
+Design and code by [https://github.com/tacoder30].
 
 ---
 
-## Lisensi
+## License
 
-MIT License – bebas digunakan, dimodifikasi, dan dikembangkan.
+MIT License – free to use, modify, and develop.
 
 ---
